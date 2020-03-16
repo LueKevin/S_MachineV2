@@ -1,5 +1,4 @@
-// Kevin Luering
-// 201920-COP-2800C-23135
+
 // Program: Create a list of players and slot machines for the user to make new objects and have them interact
 // Date: 03/01/19
 
